@@ -1,9 +1,10 @@
 DOCUMENTATION::
 **************************************************************BRIEF**************************************************************************
 Author: Abhimanyu Gupta (2019226) (abhimanyu19226@iiitd.ac.in)
-Functionality: A program to connect Restaurants with Customers using the services provided by Zatotato(food delivery technology company).
+Functionality: A program to connect Restaurants with Customers using the services provided by Zotato(food delivery technology company).
 For Purpose: Assingment 2, CSE201-Advanced Programming, Monsoon 2020 at IIIT-Delhi
-Includes:	Zoatato.java - run and maintains the flow of the program
+Includes:
+	Zotato.java - run and maintains the flow of the program
 	Zotato.class - contains records of Zotato along with providing menu to use the services
 	User.class - an interface to store user details which establish basic features of Customer and Restaurant class
 	Customer.class - stores information of customers and provides services related to customers
@@ -62,7 +63,7 @@ Method 1: Using command prompt or terminal
 	*Run the cmd inside the Zotato folder
 	*Enter "javac Zotato.java & java Zotato" (without quotes)
 	*The program will start.
-Method 2:	Using IDE
+Method 2: Using IDE
 	*Check if JAVA 13 is supported or not.
 	*Complie and Run the "Zotato.java"
 	*The program will start.
